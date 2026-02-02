@@ -16,3 +16,8 @@ New York, NY | iw2303@columbia.edu | [LinkedIn](https://www.linkedin.com/in/lana
 * **[Winter Park High School](https://winterparkhs.ocps.net/)**
     * *May 2017*
     * *Winter Park, FL*
+ 
+## Professional Interests
+    * Climate change
+    * Food Systems
+    * Data Analytics
