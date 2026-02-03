@@ -1,7 +1,7 @@
 # Lana Weidgenant
 New York, NY | iw2303@columbia.edu | [LinkedIn](https://www.linkedin.com/in/lana-weidgenant-b04493143/)
 
-![my headshot](headshot.jpg)
+![my headshot](smallerheadshot.jpg)
 
 ## Education
 
